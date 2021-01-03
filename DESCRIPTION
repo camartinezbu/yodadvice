@@ -1,7 +1,9 @@
 Package: yodadvice
 Type: Package
 Title: yodadvice: Get advice from Master Yoda
-Version: 0.1.0
+Version: 0.1.1
 Author: person("Camilo", "Martinez", email = "cambmppbc@gmail.com", role = "aut")
-Description: Prints a random quote from Master Yoda, so that it may enlighten your path towards becoming a Jedi. Or at least finish your thesis.
+Description: Get advice from Master Yoda directly from the R console using the yoda() function. Enjoy!
 License: GPL-2
+URL: https://github.com/camartinezbu/yodadvice
+BugReports: https://github.com//camartinezbu/yodadvice/issues
